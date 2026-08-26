@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "regions_centroides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "region": "Dakar", "population_2024": 4380000, "area_km2_reelle": 550, "centroid_lat": 14.716, "centroid_lon": -17.467 }, "geometry": { "type": "Point", "coordinates": [ -17.467, 14.716 ] } },
+{ "type": "Feature", "properties": { "region": "Thiès", "population_2024": 2130000, "area_km2_reelle": 6601, "centroid_lat": 14.789, "centroid_lon": -16.926 }, "geometry": { "type": "Point", "coordinates": [ -16.926, 14.789 ] } },
+{ "type": "Feature", "properties": { "region": "Diourbel", "population_2024": 1750000, "area_km2_reelle": 4769, "centroid_lat": 14.655, "centroid_lon": -16.23 }, "geometry": { "type": "Point", "coordinates": [ -16.23, 14.655 ] } },
+{ "type": "Feature", "properties": { "region": "Fatick", "population_2024": 850000, "area_km2_reelle": 6849, "centroid_lat": 14.339, "centroid_lon": -16.412 }, "geometry": { "type": "Point", "coordinates": [ -16.412, 14.339 ] } },
+{ "type": "Feature", "properties": { "region": "Kaolack", "population_2024": 1090000, "area_km2_reelle": 5357, "centroid_lat": 14.152, "centroid_lon": -16.073 }, "geometry": { "type": "Point", "coordinates": [ -16.073, 14.152 ] } },
+{ "type": "Feature", "properties": { "region": "Kaffrine", "population_2024": 750000, "area_km2_reelle": 11181, "centroid_lat": 14.106, "centroid_lon": -15.55 }, "geometry": { "type": "Point", "coordinates": [ -15.55, 14.106 ] } },
+{ "type": "Feature", "properties": { "region": "Louga", "population_2024": 950000, "area_km2_reelle": 29188, "centroid_lat": 15.618, "centroid_lon": -16.224 }, "geometry": { "type": "Point", "coordinates": [ -16.224, 15.618 ] } },
+{ "type": "Feature", "properties": { "region": "Saint-Louis", "population_2024": 1080000, "area_km2_reelle": 19241, "centroid_lat": 16.018, "centroid_lon": -16.489 }, "geometry": { "type": "Point", "coordinates": [ -16.489, 16.018 ] } },
+{ "type": "Feature", "properties": { "region": "Matam", "population_2024": 690000, "area_km2_reelle": 29445, "centroid_lat": 15.656, "centroid_lon": -13.257 }, "geometry": { "type": "Point", "coordinates": [ -13.257, 15.656 ] } },
+{ "type": "Feature", "properties": { "region": "Tambacounda", "population_2024": 950000, "area_km2_reelle": 42706, "centroid_lat": 13.771, "centroid_lon": -13.667 }, "geometry": { "type": "Point", "coordinates": [ -13.667, 13.771 ] } },
+{ "type": "Feature", "properties": { "region": "Kédougou", "population_2024": 195000, "area_km2_reelle": 16896, "centroid_lat": 12.556, "centroid_lon": -12.174 }, "geometry": { "type": "Point", "coordinates": [ -12.174, 12.556 ] } },
+{ "type": "Feature", "properties": { "region": "Kolda", "population_2024": 810000, "area_km2_reelle": 13771, "centroid_lat": 12.894, "centroid_lon": -14.941 }, "geometry": { "type": "Point", "coordinates": [ -14.941, 12.894 ] } },
+{ "type": "Feature", "properties": { "region": "Sédhiou", "population_2024": 560000, "area_km2_reelle": 7341, "centroid_lat": 12.708, "centroid_lon": -15.557 }, "geometry": { "type": "Point", "coordinates": [ -15.557, 12.708 ] } },
+{ "type": "Feature", "properties": { "region": "Ziguinchor", "population_2024": 640000, "area_km2_reelle": 7339, "centroid_lat": 12.568, "centroid_lon": -16.273 }, "geometry": { "type": "Point", "coordinates": [ -16.273, 12.568 ] } }
+]
+}
